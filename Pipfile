@@ -1,0 +1,13 @@
+[[source]]
+name = "tuna"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+
+[packages]
+tornado = "*"
+
+[requires]
+python_version = "3.6"
